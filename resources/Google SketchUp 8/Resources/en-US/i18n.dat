@@ -1,0 +1,53 @@
+[TEMPLATE]
+
+// Select the name of the default template file.  If you specify a default
+// template, you do not need any of the following settings for default
+// location and default units.
+
+// Architectural Design - Feet and Inches
+DEFAULT_TEMPLATE=Temp01a - Simple.skp;
+
+
+[DEFAULT LOCATION]
+
+DEFAULT_CITY=Boulder (CO)
+DEFAULT_COUNTRY = USA
+DEFAULT_LONGITUDE=-105.283
+DEFAULT_LATITUDE=40.017
+DEFAULT_TIMEZONE=-7.00
+
+
+[DEFAULT UNITS]
+
+// LENGTH_FORMAT: 0 = Decimal, 1 = Arcitectural, 2 = Engineering
+// LENGTH_UNITS:  0 = Inches, 1 = Feet, 2 = Millimeters 3 = centimeters, 4 = Meters
+// LENGTH_PRECISION: number of decimal places to show
+
+LENGTH_FORMAT=1;
+LENGTH_UNITS=0;
+LENGTH_PRECISION=1;
+LENGTH_SNAP=1.0;
+
+
+[DEFAULT FAVORITE SEARCHES]
+
+NUMBER_DEFAULT_SEARCHES=0;
+// SEARCH_0_NAME=Dog;
+// SEARCH_0_URL=http://sketchup.google.com/3dwarehouse/data/entities?q=Dog+is:downloadable&start-index=1&max-results=12&hl={CULTURE};
+
+
+[DEFAULT FAVORITE COLLECTIONS]
+
+NUMBER_DEFAULT_COLLECTIONS=6;
+COLLECTION_0_NAME=Architecture;
+COLLECTION_0_URL=http://sketchup.google.com/3dwarehouse/data/entities?clid=578dd83d965235a69943445eb5ff139e&q=is:downloadable&hl={CULTURE};
+COLLECTION_1_NAME=Landscape;
+COLLECTION_1_URL=http://sketchup.google.com/3dwarehouse/data/entities?clid=74f1f4bc15880d539d72d32da159e115&q=is:downloadable&hl={CULTURE};
+COLLECTION_2_NAME=Construction;
+COLLECTION_2_URL=http://sketchup.google.com/3dwarehouse/data/entities?clid=7c6adff4dfc2274cbdec1b0b6b8425ca&q=is:downloadable&hl={CULTURE};
+COLLECTION_3_NAME=People;
+COLLECTION_3_URL=http://sketchup.google.com/3dwarehouse/data/entities?clid=4f8bf1d61dccd5b68095ba2080357053&q=is:downloadable&hl={CULTURE};
+COLLECTION_4_NAME=Playground;
+COLLECTION_4_URL=http://sketchup.google.com/3dwarehouse/data/entities?clid=198ab77991db28b58095ba2080357053&q=is:downloadable&hl={CULTURE};
+COLLECTION_5_NAME=Transportation;
+COLLECTION_5_URL=http://sketchup.google.com/3dwarehouse/data/entities?clid=a854971e9dfb05cea5ab2a72c8b8cb68&q=is:downloadable&hl={CULTURE};

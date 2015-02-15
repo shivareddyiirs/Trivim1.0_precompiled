@@ -1,0 +1,13 @@
+// Copyright 2009 Google
+// Web Textures extension strings
+"Photo Textures"="Photo Textures";
+"Add Photo Texture"="Add Photo Texture";
+"Apply Photo Texture"="Apply Photo Texture";
+"There was an error pulling in the texture."="There was an error pulling in the texture.";
+"Please try again."="Please try again.";
+"Please select one or more faces in your SketchUp model that you would like to photo texture and try again."="Please select one or more faces in your SketchUp model that you would like to photo texture and try again.";
+"Photo Textures requires a connection to the internet and yours appears to be down. Please reset your connection and try again."="Photo Textures requires a connection to the internet and yours appears to be down. Please reset your connection and try again.";
+"Photo Textures requires the latest version of the Flash player. Would you like to install it now?"="Photo Textures requires the latest version of the Flash player. Would you like to install it now?";
+"We will now send you to an installation page for Flash player. Once you are done with the install, please restart SketchUp."="We will now send you to an installation page for Flash player. Once you are done with the install, please restart SketchUp.";
+"Photo Textures requires the latest version of the Flash player. An installation box for this should appear shortly. (If it does not, please visit www.flash.com to install.) Once you have agreed to the installation, you may need to restart SketchUp."="Photo Textures requires the latest version of the Flash player. An installation box for this should appear shortly. (If it does not, please visit www.flash.com to install.) Once you have agreed to the installation, you may need to restart SketchUp.";
+"Photo Textures allows you to apply textures from online photo sources."="Photo Textures allows you to apply textures from online photo sources.";

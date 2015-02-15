@@ -1,0 +1,14 @@
+//Copyright 2008 Google
+//Utilities script string file
+"You must select at least three Edges"="You must select at least three Edges";
+"Create Face from Edges failed"="Create Face from Edges failed";
+"length"="length";
+"area"="area";
+"Left button down at"="Left button down at";
+"Left button up at"="Left button up at";
+"Utilities"="Utilities";
+"Create Face"="Create Face";
+"Query Tool"="Query Tool";
+"Fix Non-planar Faces"="Fix Non-planar Faces";
+"Adds Tools->Utilities to the SketchUp interface.  The Utilities submenu contains two tools: Create Face and Query Tool."="Adds Tools->Utilities to the SketchUp interface.  The Utilities submenu contains two tools: Create Face and Query Tool.";
+"Utilities Tools"="Utilities Tools";

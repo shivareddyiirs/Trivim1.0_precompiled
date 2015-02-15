@@ -1,0 +1,202 @@
+/**
+This is an example CSS file that can be used to style the Component Options 
+window inside SketchUp. To utilize this example file, go through the following 
+steps. (Note that you must use SketchUp Pro to follow these instructions. 
+SketchUp Free does not contain the features that you need to attach CSS files.)
+
+THE PROCESS:
+
+1. Place your .css file in the SAME FOLDER as your .skp file.
+2. Inside SketchUp, use the Component Attributes window to add a CSSURL to
+   the component you would like to style. Enter the file name of the .css as 
+   your CSSURL.
+3. Open the Component Options panel to see your styled window. Make changes
+   to the CSS and refresh the dialog until you are satisfied.
+4. Once you are done you can upload your .css file to a web server and
+   enter its absolute URL into the CSSURL attribute.
+
+A DETAILED EXAMPLE:
+
+Let's say you have a file called kitchen.skp that contains a Sink component.
+You would like to have a Component Options window for this sink that contains
+your company logo and colors.
+
+To start, make a copy of this CSS file (the one you're reading) and save it as 
+sink.css in the same folder as kitchen.skp. This puts the CSS file in a spot
+where SketchUp can find it.
+
+Next, we need to tell the component to look for your new CSS file. Open 
+kitchen.skp inside SketchUp Pro. Right click on your sink, and select 
+Dynamic Components > Component Attributes. This opens the Component Attrubutes
+dialog that will allow us to hook up to our CSS file.
+
+Inside the Component Attributes dialog, you should see an outliner tree
+with your sink as the top element. Uncollapse the attribute tree beneath your
+sink, and then click the "Add Attribute" link.
+
+At this point, a list of all the reserved attributes will appear. At the bottom
+of this list, select "CSSURL", which will add an attribute with that name to
+your sink. Then double click on its value cell, type "sink.css", and press 
+enter. At this point your sink has been attached to sink.css.
+
+Right click on your sink, and select Dynamic Components > Component Attributes.
+At this point, the Component Attributes dialog is being styled by your sink.css.
+Let's make a change to the file to confirm this. Try changing "font-size: 20px;"
+to "font-size: 40px;" inside the #config-head style.
+
+To see your new, larger font, close and reopen the Component Options window. If
+your title text size is twice as large, you've done everything right. You can
+now make whatever changes you want to sink.css to display your company colors
+and logo. (There are many excellent references on the web for understanding CSS. 
+Do a web search on "Cascading Style Sheets Tutorials" to learn more.)
+
+*/
+
+/*
+---------------
+General Layout
+---------------
+*/
+
+body {
+  padding: 0px;
+}
+
+#background {
+  background-color: white;
+}
+
+
+/*
+---------------
+Header Section
+---------------
+*/
+
+#header { 
+  background-image:url(../images/tabs.gif);
+  background-position: 0px -127px;
+  background-repeat: repeat-x;
+  background-color: #e2ded7;
+  border: none;
+  border-bottom: 1px solid gray;
+  padding: 6px;
+  padding-top: 12px;
+}
+
+#header-spacer { 
+  height: 6px;
+}
+
+#config-image {
+  padding-right: 0px;
+  margin-right: 6px;
+  width: 134px;
+  height: 85px;
+}
+
+#config-head {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 19px;
+  padding-top: 3px;
+  padding-bottom: 1px;
+}
+
+#config-itemcode {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+/*
+---------------
+Content Section
+---------------
+*/
+
+#content {
+  border: 1px solid white;
+  padding: 12px 0px 40px 0px;
+}
+
+#config-subhead {
+  font-weight: bold;
+  font-size: 15px;
+  font-family: tahoma, sans-serif;
+  padding-bottom: 3px;
+}
+
+#config-description {
+  font-size: 12px;
+  font-family: tahoma, sans-serif;
+  padding-bottom: 6px;
+}
+
+#config-options {
+  background-color: #f0f0f0;
+  border-top: 1px solid #aaa;
+  border-left: 1px solid #aaa;
+  border-bottom: 1px solid #fff;
+  border-right: 1px solid #fff;
+  padding: 6px;
+}
+.config-label {
+  padding-right: 6px;
+  padding-left: 3px;
+}
+
+.config-thumb {
+  border: 1px solid gray;
+  width: 128px;
+  height: 83px;
+}
+
+.config-label {
+  text-align: right;
+  font-family: tahoma, sans-serif;
+  font-size: 11px;
+}
+
+.config-cell {
+  width: 100%;
+}
+
+.config-field {
+  width:100%;
+  font-size: 11px;
+  font-family: tahoma, sans-serif;
+  height: 22px;
+}
+
+.config-field-readonly {
+  width:100%;
+  font-size: 11px;
+  font-family: tahoma, sans-serif;
+  height: 22px;
+  background-color: threedface;
+}
+
+
+/*
+---------------
+Footer Section
+---------------
+*/
+
+#footer { 
+  height: 25px;
+  line-height: 20px;
+  background-image:url(../images/tabs.gif);
+  background-position: 0px -100px;
+  background-repeat: repeat-x;
+  background-color: #e2ded7;
+  padding-top:3px;
+}
+
+#applyButton {
+  font-family: sans-serif;
+}
+
+
+

@@ -1,0 +1,36 @@
+<html>
+<script type="text/javascript" src="../../js/openURL.js"></script>
+<head>
+<title>Paint Bucket Tool</title>
+<link href="../../HelpContent.css" rel="stylesheet" type="text/css">
+</head>
+<body class="body"> 
+<p><a href="index.html" id="PriTool-Paint"><span class="blackheader"><img src="images/animation-paint.gif" width="238" height="179" border="0"></span></a><script>modifyAnchor("PriTool-Paint","94955")</script></p>
+<p><a href="index.html" id="PriTool-Paint_"><span class="blackheader">Paint Bucket Tool</span></a><script>modifyAnchor("PriTool-Paint_","94955")</script></p>
+<ul> 
+  <li>Assign materials and colors to entities.</li> 
+</ul> 
+<p class="blacksubheader">Tool Operation
+<ol> 
+  <li>Select a materials library using drop down list in Materials Browser.</li> 
+  <li>Select a material from materials library.</li> 
+  <li>Click on faces to paint.</li> 
+</ol> 
+<p><span class="blacksubheader">Modifier Keys</span></p> 
+<ul id="elementToModify"> 
+  <li>Shift = Paint all faces connected to face that you click on regardless of context</li> 
+  <li>Ctrl = Paint all faces connected to face that you click on within current context</li> 
+  <li>Shift+Ctrl = Adjacent replace</li> 
+  <li>Alt = Sample material for painting </li> 
+  <script>replaceText("elementToModify", "Mac", 1, "Option = Paint all faces connected to face that you click on within current context");</script>
+  <script>replaceText("elementToModify", "Mac", 2, "Shift+Option = Adjacent replace");</script>
+  <script>replaceText("elementToModify", "Mac", 3, "Command = Sample material for painting");</script>
+</ul> 
+<p><span class="blacksubheader">Advanced Operations</span></p> 
+<ul> 
+  <li><a href="index.html" id="facepaintingrules">Face Painting Rules</a><script>modifyAnchor("facepaintingrules","94959")</script></li> 
+  <li><a href="index.html" id="filloptions">Fill Options</a><script>modifyAnchor("filloptions","94957")</script></li> 
+  <li><a href="index.html" id="sampling">Sampling a Material </a><script>modifyAnchor("sampling","94960")</script></li> 
+</ul> 
+</body>
+</html>

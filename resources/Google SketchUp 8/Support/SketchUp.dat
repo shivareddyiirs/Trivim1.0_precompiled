@@ -1,0 +1,123 @@
+// NOTE TO USERS:  Making modifications to this file is not recommended as it will be overwritten
+// each time an upgrade is installed.
+
+[RESELLER]
+LICENSED=0
+EVALINIT=482
+
+
+[AVIEXPORT]
+AVICOMPRESSOR=48,0000000063766964000000001027000000000000080000000000000000000000000000000400000000000000636F6C72
+
+
+[STYLE THUMB]
+DEFAULT_STYLE_MODEL=StyleTemplate;
+
+
+[BUGSPLAT]
+BUGSPLATENABLED=1
+// TODO: This link should probably go to the uploads page
+BUGSPLATURL=www.bugsplatsoftware.com
+
+
+[DEFAULT VERSION]
+DISTRIB=a
+PRODUCT=skup
+CHECK_FREQUENCY=21
+
+[SUBSTITUTIONS]
+// Explict Substitutions - currently only these are supported.  See baseapp/sketchupdatfile.*
+{WAREHOUSE_SERVER}=http://sketchup.google.com
+{GWS_SERVER}=http://www.sketchup.com
+{VERSION}=gsu8
+{OAUTH_API_SCOPES}=https://www.googleapis.com/auth/warehouse https://www.googleapis.com/auth/plus.me
+
+
+[SKETCHUP WEB URLS]
+WEB={GWS_SERVER}/intl/{GWS_CULTURE}/
+WEB_BUY={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/buy.html
+WEB_LEARN=http://sketchup.google.com/support/bin/answer/1005922/inproduct?hl={GWS_CULTURE}
+WEB_LEARN_PRO=http://sketchup.google.com/support/bin/answer/1005924/inproduct?hl={GWS_CULTURE}
+WEB_LEARN_EXPIRED=http://sketchup.google.com/support/bin/answer/1661564/inproduct?hl={GWS_CULTURE}
+WEB_LEARN_EXPIRED_UPGRADE=http://sketchup.google.com/support/bin/answer/1679558/inproduct?hl={GWS_CULTURE}
+WEB_LEARN_EXTEND_TRIAL=http://sketchup.google.com/support/bin/answer/1663257/inproduct?hl={GWS_CULTURE}
+WEB_LEARN_EXCEEDED=http://sketchup.google.com/support/bin/answer/1711591/inproduct?hl={GWS_CULTURE}
+
+WEB_DOWNLOAD={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/downloads.html
+WEB_UPGRADE={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/updates/gsu{PLATFORM}.html
+WEB_UPGRADE_PRO={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/updates/gsup{PLATFORM}.html
+
+COMPONENTS={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/components.html
+STYLES={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/styles.html
+GET_EXPORTERS={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/whygopro.html
+
+HELP_CENTER={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/support.html
+HELP_CREDITS={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/credits.html
+HELP_NO_NICKNAME={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/no_nickname.html
+HELP_CENTER_LICENSE=http://sketchup.google.com/support/bin/topic.py?hl={GWS_CULTURE}&topic=13709
+HELP_CENTER_TEMPLATE=http://sketchup.google.com/support/bin/answer.py?hl={GWS_CULTURE}&answer=38607
+
+EULA={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/eula.html
+EULA_PRO={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/eula_pro.html
+
+API_TOS={GWS_SERVER}/resources/api-terms-of-service.pdf
+
+WHY_GO_PRO={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/whygopro.html
+HELP_RUBY_API={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/rubyapi.html
+
+
+[EXTENSIONS]
+DC_HELP={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/dc_help.html
+DC_FUNCTIONS={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/dc_functions.html
+GENERATE_REPORT={WAREHOUSE_SERVER}/3dwarehouse/skpreport?hl={GWS_CULTURE}
+WEB_TEXTURES={WAREHOUSE_SERVER}/3dwarehouse/skptextures?hl={GWS_CULTURE}
+INSTALL_FLASH=http://get.adobe.com/flashplayer
+
+
+[URLS google.com]
+HELP_GAIA_ACCOUNT_ACCESS=http://www.google.com/support/accounts/bin/answer.py?answer=48598&hl={GWS_CULTURE}
+HELP_GAIA_CREATE_ACCOUNT=https://www.google.com/accounts/NewAccount?continue=http://sketchup.google.com/3dwarehouse/&hl={GWS_CULTURE}&service=warehouse
+
+
+[URLS sketchup.google.com/support]
+CONTACT_PRO=http://sketchup.google.com/support/bin/request.py?customer=supro&hl={GWS_CULTURE}
+CONTACT_FREE=http://sketchup.google.com/support/bin/request.py?customer=sufree&hl={GWS_CULTURE}
+CONTACT_TRIAL=http://sketchup.google.com/support/bin/request.py?customer=suprotrial&hl={GWS_CULTURE}
+
+
+[Google Accounts]
+OAUTH_API_SCOPE_LIST_URL={WAREHOUSE_SERVER}/3dwarehouse/apiscopes
+OAUTH_TOKEN_DURATION_OVERRIDE=-1
+OAUTH_CLIENT_ID=687096358581.apps.googleusercontent.com
+OAUTH_CLIENT_HASH=jbjpcpU8IbzTnyod91wG3dHO
+OAUTH_REDIRECT_URI=urn:ietf:wg:oauth:2.0:oob
+OAUTH_SCOPE={OAUTH_API_SCOPES}
+OAUTH_LOGIN_URL=https://accounts.google.com/o/oauth2/auth?client_id=687096358581.apps.googleusercontent.com&redirect_uri=urn:ietf:wg:oauth:2.0:oob&scope={OAUTH_API_SCOPES}&response_type=code&hl={GWS_CULTURE}
+OAUTH_TOKEN_URL=https://accounts.google.com/o/oauth2/token
+OAUTH_HOST=accounts.google.com
+OAUTH_CONTENT_TYPE=application/x-www-form-urlencoded
+
+
+[3D Warehouse]
+WAREHOUSE_USER_INFO_URL={WAREHOUSE_SERVER}/3dwarehouse/user?hl={GWS_CULTURE}
+WAREHOUSE_FEED_URL={WAREHOUSE_SERVER}/3dwarehouse/data/entities
+WAREHOUSE_MODEL_FEED_URL={WAREHOUSE_SERVER}/3dwarehouse/data/models
+WAREHOUSE_COLLECTION_FEED_URL={WAREHOUSE_SERVER}/3dwarehouse/data/collections
+WAREHOUSE_TERMS_OF_SERVICE={GWS_SERVER}/intl/{GWS_CULTURE}/3dwh/preview_tos.html
+WAREHOUSE_DIALOG_BROWSE_URI=/3dwarehouse/
+WAREHOUSE_DIALOG_URI=/3dwarehouse/upload_details
+WAREHOUSE_USER_INFO_URI=/3dwarehouse/user
+WAREHOUSE_ACTIVATE={WAREHOUSE_SERVER}/3dwarehouse/activate
+BUILDING_MAKER={WAREHOUSE_SERVER}/3dwarehouse/buildingmaker?hl={GWS_CULTURE}
+WAREHOUSE_ABOUT={GWS_SERVER}/intl/{GWS_CULTURE}/redirects/{VERSION}/about_3dwh.html
+WAREHOUSE_NO_NICKNAME=https://www.google.com/accounts/Login?hl=en&continue=http://sketchup.google.com/3dwarehouse/&service=warehouse
+
+
+[WIN ONLY URLS]
+MATERIALS=http://sketchupdate.blogspot.com/2011/09/treasure-trove-of-textures.html
+
+
+[ModelHere]
+MODEL_HERE_DIALOG={WAREHOUSE_SERVER}/3dwarehouse/skpaddlocation?hl={GWS_CULTURE}
+TERRAIN_SERVER=http://maps.google.com
+TERRAIN_MAX_POINTS=2500

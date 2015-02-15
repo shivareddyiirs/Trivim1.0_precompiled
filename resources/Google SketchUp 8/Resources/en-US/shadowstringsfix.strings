@@ -1,0 +1,6 @@
+// Copyright 2010 Google
+// Shadow Strings Fix extension strings
+"Shadow Strings Fix Toolbar"="Shadow Strings Fix Toolbar";
+"Provides a toolbar button for toggling the experimental shadow strings bug fix on and off.  While this may help eliminate shadow strings, it is possible that other visual artifacts will appear."="Provides a toolbar button for toggling the experimental shadow strings bug fix on and off.  While this may help eliminate shadow strings, it is possible that other visual artifacts will appear.";
+"Shadow Strings Fix"="Shadow Strings Fix";
+"Toggle Shadow Strings Fix"="Toggle Shadow Strings Fix";

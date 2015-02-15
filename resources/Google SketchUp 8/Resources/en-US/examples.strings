@@ -1,0 +1,41 @@
+//Copyright 2008 Google
+//Strings for Examples.rb scripts
+//Animation.rb
+//FPS stands for frames per second
+"FPS"="FPS";
+"Animations"="Animations";
+"Spin View"="Spin View";
+"Stop Spinning"="Stop Spinning";
+//Attributes.rb
+"Cost per sq. foot"="Cost per sq. foot";
+"Cost Estimate"="Cost Estimate";
+"Material"="Material";
+"Cost By Material"="Cost By Material";
+"Could not find Material named"="Could not find Material named";
+"Total Cost Estimate"="Total Cost Estimate";
+"Cost Estimate"="Cost Estimate";
+"Cost"="Cost";
+"Assign Estimate to Material"="Assign Estimate to Material";
+"Assign Estimate to Faces"="Assign Estimate to Faces";
+"Compute Estimate"="Compute Estimate";
+//Box.rb
+"Width"="Width";
+"Height"="Height";
+"Depth"="Depth";
+"Box Dimensions"="Box Dimensions";
+"Create Box"="Create Box";
+"Box"="Box";
+//ContextMenu.rb
+"Point at Center"="Point at Center";
+//LineTool.rb
+"Select second end"="Select second end";
+"Select first end"="Select first end";
+"Create Cylinder"="Create Cylinder";
+//Selection.rb
+"Hide Rest"="Hide Rest";
+"Layer"="Layer";
+"Select By Layer"="Select By Layer";
+"Select By Material"="Select By Material";
+"Default"="Default";
+"Ruby Script Examples"="Ruby Script Examples";
+"Adds examples of tools created in Ruby to the SketchUp interface.  The example tools are Draw->Box, Plugins->Cost and Camera->Animations."="Adds examples of tools created in Ruby to the SketchUp interface.  The example tools are Draw->Box, Plugins->Cost and Camera->Animations.";

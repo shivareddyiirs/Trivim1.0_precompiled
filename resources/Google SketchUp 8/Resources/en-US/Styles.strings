@@ -1,0 +1,259 @@
+/* General */
+"-- Runtime --" = "-- Runtime --";
+"-- Favorites --" = "-- Favorites --";
+"--------" = "--------";
+"Styles"="Styles";
+"Style"="Style";
+
+/* Assorted Styles */
+"Assorted Styles"="Assorted Styles";
+"PSO Cursive"="PSO Cursive";
+"Created by Paul Stevenson Oles.   Cursive directional paper texture with white border.  Line type is Classic SketchUp jitter with endpoints. Gray scale colors. Sky is enabled."="Created by Paul Stevenson Oles.   Cursive directional paper texture with white border.  Line type is Classic SketchUp jitter with endpoints. Gray scale colors. Sky is enabled.";
+
+"PSO Graded"="PSO Graded";
+"Created by Paul Stevenson Oles.  Graded paper texture with white border. Line type is Classic SketchUp jitter with endpoints.  Colors are browns and blues with a greenish tint.  Materials and sky are enabled."="Created by Paul Stevenson Oles.  Graded paper texture with white border. Line type is Classic SketchUp jitter with endpoints.  Colors are browns and blues with a greenish tint.  Materials and sky are enabled.";
+
+"PSO Snow"="PSO Snow";
+"Created by Paul Stevenson Oles.  Paper texture with graded snow mask overlay.  Line type is Classic SketchUp jitter with endpoints.  Colors are browns and blues. Materials,  sky and ground  are enabled."="Created by Paul Stevenson Oles.  Paper texture with graded snow mask overlay.  Line type is Classic SketchUp jitter with endpoints.  Colors are browns and blues. Materials,  sky and ground  are enabled.";
+
+"PSO Vignette"="PSO Vignette";
+"Created by Paul Stevenson Oles.   Cursive directional paper texture with vignette overlay.  Line type is Classic SketchUp jitter with endpoints.  Simple brown and blue colors.  Materials and sky are enabled."="Created by Paul Stevenson Oles.   Cursive directional paper texture with vignette overlay.  Line type is Classic SketchUp jitter with endpoints.  Simple brown and blue colors.  Materials and sky are enabled.";
+
+"Blueprint"="Blueprint";
+"Blue surface and background colors with fine white lines."="Blue surface and background colors with fine white lines.";
+
+"Brush Strokes on Canvas"="Brush Strokes on Canvas";
+"Canvas texture mask with dark brush stroke edges.  Earthy colors. Materials, sky and ground are enabled."="Canvas texture mask with dark brush stroke edges.  Earthy colors. Materials, sky and ground are enabled.";
+
+"Generic CAD"="Generic CAD";
+"Dark, grayscale surfaces and background colors with white edges. Materials, sky and ground are enabled. Axes are visible."="Dark, grayscale surfaces and background colors with white edges. Materials, sky and ground are enabled. Axes are visible.";
+
+"Chipboard with fine marker"="Chipboard with fine marker";
+"Chipboard texture with fine marker lines. Materials are enabled."="Chipboard texture with fine marker lines. Materials are enabled.";
+
+"Monochrome Screen"="Monochrome Screen";
+"Orange monochrome computer monitor appearance. "="Orange monochrome computer monitor appearance. ";
+
+"Pencil on Tracing Paper"="Pencil on Tracing Paper";
+"Sketchy curved pencil edges on trace paper colored background. Subtle sky and ground. Materials enabled."="Sketchy curved pencil edges on trace paper colored background. Subtle sky and ground. Materials enabled.";
+
+"Scribble on Masonite"="Scribble on Masonite";
+"Light scribble lines on masonite.  Materials enabled. Light brown default face colors."="Light scribble lines on masonite.  Materials enabled. Light brown default face colors.";
+
+"Watercolor Paper with Pencil"="Watercolor Paper with Pencil";
+"Watercolor texture mask. Pencil edges with endpoints and extensions.  Light surface colors.  Sky and ground are enabled."="Watercolor texture mask. Pencil edges with endpoints and extensions.  Light surface colors.  Sky and ground are enabled.";
+
+"Whiteboard with Dry Erase Marker"="Whiteboard with Dry Erase Marker";
+"Dry erase marker lines, colored by material. Surfaces will remain white."="Dry erase marker lines, colored by material. Surfaces will remain white.";
+
+/* Color Sets */
+"Color Sets"="Color Sets";
+"00  Default Colors"="00  Default Colors";
+"Beige and Green"="Beige and Green";
+"Blue and Orange"="Blue and Orange";
+"Blues"="Blues";
+"Browns"="Browns";
+"Cammo"="Cammo";
+"Dark Green and  Orange"="Dark Green and  Orange";
+"Google Colors"="Google Colors";
+"Gray Scale"="Gray Scale";
+"Greens"="Greens";
+"Mint Green"="Mint Green";
+"Orange and Green"="Orange and Green";
+"Red Brick"="Red Brick";
+"Redish Brown"="Redish Brown";
+"Sandstone and Blue"="Sandstone and Blue";
+"Yellow and Blue"="Yellow and Blue";
+
+/* Default Styles */
+"Default Styles"="Default Styles";
+"Default Style"="Default Style";
+"Default colors.  Shaded with textures facestyle.  Sky enabled.  Brown background color.  3px profile lines."="Default colors.  Shaded with textures facestyle.  Sky enabled.  Brown background color.  3px profile lines.";
+
+"Wireframe"="Wireframe";
+"Wireframe facestyle.  White background."="Wireframe facestyle.  White background.";
+
+"HiddenLine"="HiddenLine";
+"Hidden line facestyle. White background."="Hidden line facestyle. White background.";
+
+"Shaded "="Shaded ";
+"Default colors, shaded facestyle.  Materials will display as average colors.  White background."="Default colors, shaded facestyle.  Materials will display as average colors.  White background.";
+
+"Shaded with textures"="Shaded with textures";
+"Default colors, shaded with textures facestyle. White background."="Default colors, shaded with textures facestyle. White background.";
+
+"X-ray"="X-ray";
+"Default colors, X-ray and shaded with textures facestyle. White background."="Default colors, X-ray and shaded with textures facestyle. White background.";
+
+"Simple Style"="Simple Style";
+"Default colors.  Shaded with textures face style.  Sky enabled.  Green background color.  "="Default colors.  Shaded with textures face style.  Sky enabled.  Green background color.  ";
+
+"Architectural Design Style"="Architectural Design Style";
+"Desaturated colors. Profile, Extension and Endpoints edge effects and sky enabled."="Desaturated colors. Profile, Extension and Endpoints edge effects and sky enabled.";
+
+"Earth Modeling"="Earth Modeling";
+"Simple earthy colors. Sky Enabled.  No edge effects."="Simple earthy colors. Sky Enabled.  No edge effects.";
+
+"Design Style"="Design Style";
+"Default colors.  Shaded with textures facestyle.  Sky enabled.  Grey-blue background color.  3px profile lines."="Default colors.  Shaded with textures facestyle.  Sky enabled.  Grey-blue background color.  3px profile lines.";
+
+"Engineering style"="Engineering style";
+"White overall with a light blue back face color."="White overall with a light blue back face color.";
+
+/* Sketchy Edges */
+"Sketchy Edges"="Sketchy Edges";
+"Airbrush with Endpoints"="Airbrush with Endpoints";
+"Sketchy sirbrush lines with endpoints"="Sketchy airbrush lines with endpoints";
+"Airbrush"="Airbrush";
+"Sketchy airbrushed lines"="Sketchy airbrushed lines";
+"Brush Strokes Wide"="Brush Strokes Wide";
+"Sketchy brush strokes.  Wider version."="Sketchy brush strokes.  Wider version.";
+"Brush Strokes"="Brush Strokes";
+"Sketchy brush strokes.  Thinner version."="Sketchy brush strokes.  Thinner version.";
+"Chalk on Blackboard"="Chalk on Blackboard";
+"Sketchy chalk lines on dark grey backround."="Sketchy chalk lines on dark grey backround.";
+"Chalk on Greenboard"="Chalk on Greenboard";
+"Sketchy chalk lines on dark green backround."="Sketchy chalk lines on dark green backround.";
+"Charcoal Loose"="Charcoal Loose";
+"Sketchy charcoal lines. Loose strokes with a bit of wobble."="Sketchy charcoal lines. Loose strokes with a bit of wobble.";
+"Classic SketchUp Jitter with Endpoints"="Classic SketchUp Jitter with Endpoints";
+"Sketchy lines created from images of classic SketchUp jitter lines with endpoints."="Sketchy lines created from images of classic SketchUp jitter lines with endpoints.";
+"Conte"="Conte";
+"Sketchy conte lines."="Sketchy conte lines.";
+"Crayon"="Crayon";
+"Sketchy crayon lines."="Sketchy crayon lines.";
+"Cross Stitch"="Cross Stitch";
+"Sketchy cross stitched lines.  Created by hand scribbling back and forth."="Sketchy cross stitched lines.  Created by hand scribbling back and forth.";
+"Dry Erase Marker Wide"="Dry Erase Marker Wide";
+"Sketchy lines created using a wide tipped dry erase marker."="Sketchy lines created using a wide tipped dry erase marker.";
+"Dry Erase Marker"="Dry Erase Marker";
+"Sketchy lines created using a thin tipped dry erase marker."="Sketchy lines created using a thin tipped dry erase marker.";
+"Fineliner"="Fineliner";
+"Fineliner with slight endpoints, color is  dark grey, almost black."="Fineliner with slight endpoints, color is  dark grey, almost black.";
+"Marker Broken Line"="Marker Broken Line";
+"Randomly dashed thin marker lines."="Randomly dashed thin marker lines.";
+"Marker Super Fine"="Marker Super Fine";
+"Sketchy super fine tipped marker lines."="Sketchy super fine tipped marker lines.";
+"Marker Loose"="Marker Loose";
+"Sketchy scribbled thin marker lines."="Sketchy scribbled thin marker lines.";
+"Marker Thin"="Marker Thin";
+"Sketchy thin tipped marker lines."="Sketchy thin tipped marker lines.";
+"Marker Wide"="Marker Wide";
+"Sketchy wide tipped marker lines."="Sketchy wide tipped marker lines.";
+"Pen Black"="Pen Black";
+"Sketchy black pen."="Sketchy black pen.";
+"Pen Blue"="Pen Blue";
+"Sketchy blue pen. "="Sketchy blue pen. ";
+"Pen Curved"="Pen Curved";
+"Arching pen lines."="Arching pen lines.";
+"Pen Grey"="Pen Grey";
+"Sketchy grey pen."="Sketchy grey pen.";
+"Pen Loose"="Pen Loose";
+"Sketchy scribbled black pen."="Sketchy scribbled black pen.";
+"Pen Red"="Pen Red";
+"Sketchy red pen."="Sketchy red pen.";
+"Pen Sepia"="Pen Sepia";
+"Sketchy sepia pen."="Sketchy sepia pen.";
+"Pen Wavy"="Pen Wavy";
+"Sketchy wobbly pen lines."="Sketchy wobbly pen lines.";
+"Pencil"="Pencil";
+"Free hand pencil lines."="Free hand pencil lines.";
+"Pencil Curved"="Pencil Curved";
+"Arching pencil lines."="Arching pencil lines.";
+"Pencil with Endpoints"="Pencil with Endpoints";
+"Wobbly pencil lines with endpoints."="Wobbly pencil lines with endpoints.";
+"Permanent Marker Fine"="Permanent Marker Fine";
+"Fine lines created with a permanent marker."="Fine lines created with a permanent marker.";
+"Permanent Marker Heavy"="Permanent Marker Heavy";
+"Heavy lines created with a permanent marker."="Heavy lines created with a permanent marker.";
+"Scibble Heavy"="Scibble Heavy";
+"Back and forth scribble lines.  Wide version."="Back and forth scribble lines.  Wide version.";
+"Scribble Light"="Scribble Light";
+"Back and forth scribble lines.  Thin version."="Back and forth scribble lines.  Thin version.";
+"Tech Pen"="Tech Pen";
+"Hand drawn tech pen lines created with a medium width pen."="Hand drawn tech pen lines created with a medium width pen.";
+"Twigs"="Twigs";
+"This style was created by scanning actual twigs."="This style was created by scanning actual twigs.";
+"Watercolor"="Watercolor";
+"Sketchy watercolor brushed lines."="Sketchy watercolor brushed lines.";
+"Wires"="Wires";
+"These edges were created by scanning pieces of thick wire."="These edges were created by scanning pieces of thick wire.";
+
+/* Straight Lines */
+"Straight Lines"="Straight Lines";
+"Straight Lines 01pix"="Straight Lines 01pix";
+"1 pixel wide straight lines."="1 pixel wide straight lines.";
+"Straight Lines 02pix"="Straight Lines 02pix";
+"2 pixel wide straight lines."="2 pixel wide straight lines.";
+"Straight Lines 03pix"="Straight Lines 03pix";
+"3 pixel wide straight lines."="3 pixel wide straight lines.";
+"Straight Lines 04pix"="Straight Lines 04pix";
+"4 pixel wide straight lines."="4 pixel wide straight lines.";
+"Straight Lines 05pix"="Straight Lines 05pix";
+"5 pixel wide straight lines."="5 pixel wide straight lines.";
+"Straight Lines 06pix"="Straight Lines 06pix";
+"6 pixel wide straight lines."="6 pixel wide straight lines.";
+"Straight Lines 07pix"="Straight Lines 07pix";
+"7 pixel wide straight lines."="7 pixel wide straight lines.";
+"Straight Lines 08pix"="Straight Lines 08pix";
+"8 pixel wide straight lines."="8 pixel wide straight lines.";
+"Straight Lines 09pix"="Straight Lines 09pix";
+"9 pixel wide straight lines."="9 pixel wide straight lines.";
+"Straight Lines 10pix"="Straight Lines 10pix";
+"10 pixel wide straight lines."="10 pixel wide straight lines.";
+
+/* Style Builder Competition Winners */
+"Style Builder Competition Winners"="Style Builder Competition Winners";
+"Hand Drafted with Mask"="Hand Drafted with Mask";
+"Created by Mark Leasor.  This style gives you some sketchiness to your model without being too loose. It works best with solid colors applied to the model because there is a Watermark Mask that subtly softens the image.  The lines for this style were created with a fine point pen against a straight edge.  Also note that the lines are colored by material, which allows white lines of window mullions to show up on a dark window surface. "="Created by Mark Leasor.  This style gives you some sketchiness to your model without being too loose. It works best with solid colors applied to the model because there is a Watermark Mask that subtly softens the image.  The lines for this style were created with a fine point pen against a straight edge.  Also note that the lines are colored by material, which allows white lines of window mullions to show up on a dark window surface. ";
+
+"Light Grey Freestyle"="Light Grey Freestyle";
+"Created By Matt Campbell.  Light grey freestyle lines makes the sketch look more like a concept.   "="Created By Matt Campbell.  Light grey freestyle lines makes the sketch look more like a concept.   ";
+
+"Lines with Wide Marker"="Lines with Wide Marker";
+"Created by Daisuke Matsuura.  Lines with Wide Marker. "="Created by Daisuke Matsuura.  Lines with Wide Marker. ";
+
+"Pencil Edges With Whiteout Border"="Pencil Edges With Whiteout Border";
+"Created by Mark Paschke.  Pencil Edges With Whiteout Border.  "="Created by Mark Paschke.  Pencil Edges With Whiteout Border.  ";
+
+"Pencil Sketch with Darker Traced lines"="Pencil Sketch with Darker Traced lines";
+"Created by Devin Lavigne.  Loose pencil sketch lines with darker traced lines."="Created by Devin Lavigne.  Loose pencil sketch lines with darker traced lines.";
+
+"Pencil on Graph Paper"="Pencil on Graph Paper";
+"Created by  Matthew Valero.  Pencil lines on graph paper."="Created by  Matthew Valero.  Pencil lines on graph paper.";
+
+"Pencil on light brown"="Pencil on light brown";
+"Created by (SAM) Xia QiCong.   A natural presentaion expression for architects. "="Created by (SAM) Xia QiCong.   A natural presentaion expression for architects. ";
+
+"Rough Pencil Style"="Rough Pencil Style";
+"Created by Alan Adams.  Rough pencil lines. "="Created by Alan Adams.  Rough pencil lines. ";
+
+"Stain Edges with Frame"="Stain Edges with Frame";
+"Created by Reuben Chock. Loose, messy style, ala napkin sketch. Directional textures. Frame for consistent exhibits for quick presentations, notch in the base for notes, titles..."="Created by Reuben Chock. Loose, messy style, ala napkin sketch. Directional textures. Frame for consistent exhibits for quick presentations, notch in the base for notes, titles...";
+
+"Tech Pen Endpoints"="Tech Pen Endpoints";
+"Created by Mark  Galbraith.  Tech pen lines with endpoints. "="Created by Mark  Galbraith.  Tech pen lines with endpoints. ";
+
+/* Photo Modeling */
+"Photo Modeling Style"="Photo Modeling Style";
+"This style is useful when modeling from photographs."="This style is useful when modeling from photographs.";
+
+"Photo Modeling Dashed"="Photo Modeling Dashed";
+"This style is useful when modeling complex geometry from photographs."="This style is useful when modeling complex geometry from photographs.";
+
+"Reversed Photo Modeling Style"="Reversed Photo Modeling Style";
+"This style is useful when modeling from photographs."="This style is useful when modeling from photographs.";
+
+/* Default Styles used in Templates. */
+"Simple Template Style"="Simple Template Style";
+"Default colors.  Shaded with textures face style.  Sky enabled.  Green background color.  "="Default colors.  Shaded with textures face style.  Sky enabled.  Green background color.  ";
+"Architectural Design Style "="Architectural Design Style ";
+"Desaturated colors. Profile, Extension and Endpoints edge effects enabled."="Desaturated colors. Profile, Extension and Endpoints edge effects enabled.";
+"Default Earth Modeling"="Default Earth Modeling";
+"Simple earthy colors.  No edge effects."="Simple earthy colors.  No edge effects.";
+"Default Engineering style"="Default Engineering style";
+"White overall with a light blue back face color."="White overall with a light blue back face color.";
+"Design Style"="Design Style";
+"Default colors.  Shaded with textures facestyle.  Sky enabled.  Grey-blue background color.  3px profile lines."="Default colors.  Shaded with textures facestyle.  Sky enabled.  Grey-blue background color.  3px profile lines.";
+"Default Style Top View"="Default Style Top View";
+"Default colors.  Shaded with textures facestyle.  White background.  3px profile lines."="Default colors.  Shaded with textures facestyle.  White background.  3px profile lines.";

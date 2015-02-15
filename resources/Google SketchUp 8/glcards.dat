@@ -1,0 +1,14 @@
+// Case doesn't matter.
+// Partial strings are enough to make a match.
+// HW == Use Hardware OpenGL
+// SW == Use Software OpenGL
+// any|ANY matches any Renderer.
+// Format-
+// Acceleration|Vendor|Renderer|Support File
+
+// Defaults first.
+HW|ATI Tech|any
+HW|NVIDIA Corp|ANY
+
+// Then Specific cards.
+//SW|NVIDIA Corp|5200

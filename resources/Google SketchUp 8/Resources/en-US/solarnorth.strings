@@ -1,0 +1,11 @@
+// Copyright 2010 Google
+// Solar North extension strings
+"Solar North"="Solar North";
+"Solar North Toolbar"="Solar North Toolbar";
+"Toggle North Arrow"="Toggle North Arrow";
+"Set North Tool"="Set North Tool";
+"Enter North Angle"="Enter North Angle";
+"North Angle (0-360)"="North Angle (0-360)";
+"Your input could not be understood. Please enter a number between 0 and 360."="Your input could not be understood. Please enter a number between 0 and 360.";
+"(Pro Only)"="(Pro Only)";
+"Provides a toolbar for displaying and altering solar north in the model. Useful for customized shadow studies."="Provides a toolbar for displaying and altering solar north in the model. Useful for customized shadow studies.";
